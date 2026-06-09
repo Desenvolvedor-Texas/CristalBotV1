@@ -1,0 +1,33 @@
+[
+  {
+    "id": "553195760220@s.whatsapp.net",
+    "dados": {
+      "acertos": 1,
+      "erros": 0,
+      "corretor": 0,
+      "jogos": 22,
+      "partidas": [
+        {
+          "id": "12012026131549",
+          "letras_acertadas": 11,
+          "letras_erradas": 0
+        },
+        {
+          "id": "12012026132025",
+          "letras_acertadas": 10,
+          "letras_erradas": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "557999847588@s.whatsapp.net",
+    "dados": {
+      "acertos": 0,
+      "erros": 0,
+      "corretor": 0,
+      "jogos": 0,
+      "partidas": []
+    }
+  }
+]
