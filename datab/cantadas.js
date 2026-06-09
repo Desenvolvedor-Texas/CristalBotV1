@@ -1,0 +1,22 @@
+[
+  "Você acredita em amor à primeira vista ou devo passar por aqui mais uma vez?",
+  "Se beleza fosse tempo, você seria a eternidade.",
+  "Se eu pudesse reorganizar o alfabeto, colocaria U e I juntos.",
+  "Você deve ser uma fada, porque sempre ilumina o meu dia.",
+  "Eu não sou fotógrafo, mas posso nos imaginar juntos.",
+  "Se você fosse um vegetal, seria uma 'linduchinha'.",
+  "Você é como meu Wi-Fi: sinto conexão instantânea.",
+  "Seu sorriso deve ser um ladrão, porque roubou meu coração.",
+  "Se beleza fosse música, você seria a minha playlist favorita.",
+  "Você é tão doce que deveria vir com uma etiqueta de 'Açúcar'.",
+  "Você não é Google, mas tem tudo que eu procuro.",
+  "Se você fosse uma estrela, eu passaria a noite inteira olhando para você.",
+  "Posso não ser um mago, mas posso te fazer sorrir com um passe de mágica.",
+  "Você é como café: me deixa acordado e feliz.",
+  "Se eu tivesse uma estrela para cada vez que penso em você, teria o universo inteiro.",
+  "Você é como um software: sempre melhora meu dia quando estou com você.",
+  "Se você fosse um livro, eu leria você todas as noites.",
+  "Você é tão incrível que até o sol fica com inveja do seu brilho.",
+  "Você deve ser uma obra de arte, porque não dá para parar de admirar.",
+  "Se você fosse um emoji, seria o coração 💖."
+]
