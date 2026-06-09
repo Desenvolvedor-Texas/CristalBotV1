@@ -1,0 +1,32 @@
+{
+  "grupos": {
+    "1203630xxxxx@g.us": {
+      "ativo": true,
+      "parcerias": {
+        "558199999999@s.whatsapp.net": {
+          "link": "https://chat.whatsapp.com/xxxxx",
+          "criadoPor": "558188888888@s.whatsapp.net",
+          "date": "29/01/2026 22:15",
+          "used": 0,
+          "amount": 10
+        }
+      }
+    },
+    "120363425792479042@g.us": {
+      "ativo": true,
+      "parcerias": {}
+    },
+    "120363407289574377@g.us": {
+      "ativo": true,
+      "parcerias": {
+        "553195760220@s.whatsapp.net": {
+          "link": "https://chat.whatsapp.com/BfMg5fAvgRrJMCreTiKHp5",
+          "criadoPor": "553195760220@s.whatsapp.net",
+          "date": "30/01/2026, 16:44:16",
+          "used": 0,
+          "amount": 82828282828281820
+        }
+      }
+    }
+  }
+}
